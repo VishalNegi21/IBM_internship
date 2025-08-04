@@ -16,7 +16,7 @@ We used IBM AutoAI to:
 ---
 
 ## 📂 Repository Contents
-- **`Predictive_Maintenance_Project_PPT.pptx`** → Final project presentation
+- **`IBM intership ppt.pptx`** → Final project presentation
 - **`predictive_maintenance.csv`** → Dataset used for model training and evaluation
 - **`README.md`** → Project documentation
 
